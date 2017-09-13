@@ -3,5 +3,4 @@ Inspired by Kevin Brothaler's book
 
 Built with OpenGL 2.0
 
-![my image](https://drive.google.com/open?id=0B9U9K-6Q6r9SRkZveTFjQW50cW4xb1Q5V01Vek5CMERDM1pN) 
-![my image](https://drive.google.com/open?id=0B9U9K-6Q6r9Sdm53bzYxZk5VX2k0YWpkME1VYS1JSXRkVmc0)
+<img src="/images/Screenshot_2017-09-13-17-24-30-264_com.example.andre.particles.png" width=24%/> <img src="/images/Screenshot_2017-09-13-18-23-51-991_com.example.andre.particles.png" width=24%/> <img src="/images/Screenshot_2017-09-13-18-22-31-449_com.miui.home.png" width=24%/> <img src="/images/Screenshot_2017-09-13-18-22-54-776_com.miui.home.png" width=24%/>
